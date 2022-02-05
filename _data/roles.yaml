@@ -1,0 +1,19 @@
+- title: Senior Consultant
+  company: Contino
+  summary: |
+    Providing advice and guidance to large organisations across multiple sectors, my role at Contino allows me to take advantage of my specialist Observability and data analysis skills to provide clients with a greater knowledge of how their applications, platforms, and development teams work.
+  technologies_used:
+    - Prometheus
+    - Grafana
+    - Loki
+    - Elasticsearch
+    - Vector
+    - Terraform
+    - AWS
+    - GCP
+    - Logstash
+  soft_skills:
+    - Stakeholder Management
+    - Systems Design & Architecture
+    - Delivering Training & Upskilling
+    - Agile Leadership
