@@ -1,0 +1,19 @@
+- name: Make Monmouth
+  description: |
+    Along with a few others, I setup and currently run a Maker Space in Monmouth, South Wales, UK.
+
+    Our goal is to provide a community space in which people from all walks of life are able to create, socialise, and collaborate on their projects with access to tools and machinery that they may not otherwise have.
+  website: https://www.makemonmouth.co.uk/
+  twitter: makemonmouth
+- name: Budget Smart Home
+  description: |
+    I'm a keen advocate of homes that use technology to improve the life of the people who live there.
+
+    As a result, I'm documenting my progress on retro-fitting smart-home technology to my 1980's house here in the UK.
+  website: https://www.budgetsmarthome.co.uk/
+  twitter: bgtsmarthomeuk
+- name: Lunchtime Trains
+  description: |
+    No longer operational, Lunchtime Trains took live data feeds from Network Rail and used them to provide trainspotters with a way to see which services were near them at any given time.
+
+    This was my first foray into big data and augmenting static data with live streams, and it included trains as well, so that was a bonus!

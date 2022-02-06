@@ -17,3 +17,25 @@
     - Systems Design & Architecture
     - Delivering Training & Upskilling
     - Agile Leadership
+- title: Director
+  company: Mockingbird Consulting Ltd
+  summary: |
+    A specialist IoT Managed Service Provider focusing on the agricultural sector, Mockingbird Consulting deployed a global IoT network based on LoRaWAN for use by farmers and vinters in the UK, EU, China, and Australia.
+    Leaning heavily on DevOps best practice, the infrastructure was managed via Hashicorp's <a href="https://nomadproject.io/">Nomad</a>, with <a href="https://consul.io/">Consul</a> for internal service discovery and <a href="https://vaultproject.io/">Vault</a> for secrets management including auto-rotation of various credentials.
+    Unfortunately a combination of Brexit and COVID-19 led to a situation in which operating was no longer viable, and the company was closed in October 2020.
+  technologies_used:
+    - InfluxDB
+    - Grafana
+    - Terraform
+    - AWS
+    - DigitalOcean
+    - Consul
+    - Vault
+    - Nomad
+    - Docker
+    - LoRaWAN
+  soft_skills:
+    - Stakeholder Management
+    - Systems Design & Architecture
+    - Delivering Training & Upskilling
+    - Agile Leadership

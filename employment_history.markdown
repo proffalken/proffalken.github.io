@@ -28,7 +28,7 @@ order: 1
 <div class="row">
 <div class="col">
 <p>Here's a list of all the roles I've held to date, along with a summary of each of them.</p>
-<p>If you're looking for some of the more esoteric projects that I've worked on, then where I'm allowed to I've documented them <a href="/projects">here</a>.</p>
+<p>If you're looking for some of the other projects that I've worked on, then where I'm allowed to I've documented them <a href="/projects">here</a>.</p>
 </div>
 </div>
 {% for role in site.data.roles %}
