@@ -33,31 +33,33 @@ order: 1
 </div>
 {% for role in site.data.roles %}
 <div class="row justify-content-center">
-<div class="col-md-8">
-  <div class="card card-stats">
-<div class="card-header">
-<h3 class="card-title">{{ role.title }} - {{ role.company }}</h3>
-</div>
-<div class="card-body">
-<p class="card-body">{{ role.summary }}</p>
-<div class="row">
-<div class="col">
-<h5 class="text-muted">Key Technologies</h5>
-<ul class="list-group list-group-flush">
-{% for tech in role.technologies_used %}
-<li class="list-group-item">{{ tech }}</li>
-{% endfor %}
-</ul>
-</div>
-<div class="col">
-<h5 class="text-muted">Soft Skills</h5>
-<ul class="list-group list-group-flush">
-{% for skill in role.soft_skills %}
-<li class="list-group-item">{{ skill }}</li>
-{% endfor %}
-</ul>
-</div>
-</div>
+  <div class="col-md-8">
+    <div class="card card-stats">
+      <div class="card-header">
+        <h3 class="card-title">{{ role.title }} - {{ role.company }}</h3>
+      </div>
+      <div class="card-body">
+        <p class="card-body">{{ role.summary }}</p>
+          <div class="row">
+            <div class="col">
+              <h5 class="text-muted">Key Technologies</h5>
+              <ul class="list-group list-group-flush">
+                {% for tech in role.technologies_used %}
+                  <li class="list-group-item">{{ tech }}</li>
+                {% endfor %}
+              </ul>
+            </div>
+            <div class="col">
+              <h5 class="text-muted">Soft Skills</h5>
+              <ul class="list-group list-group-flush">
+              {% for skill in role.soft_skills %}
+              <li class="list-group-item">{{ skill }}</li>
+              {% endfor %}
+              </ul>
+            </div>
+          </div>
+      </div>
+    </div>
   </div>
 </div>
 {% endfor %}
