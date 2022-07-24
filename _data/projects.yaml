@@ -17,3 +17,9 @@
     No longer operational, Lunchtime Trains took live data feeds from Network Rail and used them to provide trainspotters with a way to see which services were near them at any given time.
 
     This was my first foray into big data and augmenting static data with live streams, and it included trains as well, so that was a bonus!
+- name: DevOps is Common Sense (DOICS)
+  description: |
+    I rarely update this blog these days, however it documents a lot of my thoughts and experiences around getting Developers and Operations Teams talking to each other.
+
+    If you take nothing else away from my blog posts, then please just remember that DevOps is a mindset, not a job title!
+  website: https://www.doics.co/
