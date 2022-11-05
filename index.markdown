@@ -24,3 +24,5 @@ order: 0
 </div>
 
 {% include github_data.html %}
+
+<a rel="me" href="https://fosstodon.org/@proffalken">Mastodon</a>
